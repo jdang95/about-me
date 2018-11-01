@@ -29,7 +29,8 @@ p{
  position:relative; 
  margin-left:10%;
  margin-right:10%;
-    text-align:center;
+ text-align:center;
+ border-radius: 50%;
 }
 
 .clear {
