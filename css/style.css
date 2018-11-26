@@ -24,6 +24,34 @@ p{
   text-align:center;
 }
 
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #000000;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+
+			#nav, #feature, #footer {
+				margin: 1%;}
+
+
+			li {
+			  position: static;
+				display: inline;
+				padding: 0.5em;}
+
+			#nav, #footer {
+				background-color: #000000;
+				padding: 0.5em 0;}z
+
+			#feature{
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #4b2e83;}
+
 
 	.photo{
  position:relative; 
