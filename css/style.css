@@ -47,8 +47,12 @@ p {
    font-style: normal;
    font-size: 60px;
    text-align:center;
-   color: white;
+   color:white;
    text-align:center;
+   border-style:  solid;
+    position: static;
+    top: 600px;
+    left: 400px;
   
 }
 
@@ -59,6 +63,9 @@ a{
    font-style: normal; 
    color: #ffffff;	
 }
+
+
+
 
 
 
