@@ -35,9 +35,9 @@ body{
 h1{
   color: white;
   text-align:center;
-  font-size: 90px;
+  font-size: 100px;
   font-family:'DancingScriptRegular';
-	font-size:200px;
+	
 }
     
 
@@ -45,7 +45,7 @@ p {
    font-family: 'DancingScriptRegular'; 
    font-weight: normal; 
    font-style: normal;
-   font-size: 40px;
+   font-size: 50px;
    text-align:center;
    color:white;
    text-align:center;
